@@ -1,0 +1,8 @@
+These are the colors:
+red
+blue
+yellow
+orange
+green
+violet
+indigo
